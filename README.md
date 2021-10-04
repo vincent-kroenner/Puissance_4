@@ -1,3 +1,3 @@
 # Puissance_4
 
-Première interface en Java, pour un projet realisé seul en une semaine
+Première interface en Java, pour un projet réalisé seul en une semaine.
